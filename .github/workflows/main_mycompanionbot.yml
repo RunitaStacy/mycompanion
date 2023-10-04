@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'MyCompanionbot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7929311949CE4F5C86F3FD005CFB726E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A6E197E1C1144AA4B8C17759C44B62AC }}
