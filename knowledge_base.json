@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Tamil nadu?",
+      "answers": [
+        "Trichy",
+        "Madurai",
+        "Salem",
+        "Chennai"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the capital of India?",
+      "answers": [
+        "Delhi",
+        "Mumbai",
+        "Kerala",
+        "Goa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi"
+    },
+    {
+      "question": "saptiya",
+      "answer": "yes murukku"
+    },
+    {
+      "question": "love you",
+      "answer": "me too"
+    },
+    {
+      "question": "good",
+      "answer": "tq"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "bye",
+      "answer": "tata take care dear"
+    },
+    {
+      "question": "how are u",
+      "answer": "I am good. Thanks for asking"
+    },
+    {
+      "question": ["did you eat","Ate"],
+      "answer": "Sorry dear. I didn't"
+    },
+    {
+      "question": "upset",
+      "answer": "Oh dear... That sounds ill. Don't worry, you can share things with me."
+    },
+    {
+      "question": "I am happy",
+      "answer": "Wowww... Sounds cool dude. You can share things with me if you like. "
+    },
+    {
+      "question": "I am sick",
+      "answer": "Omg... What happened?"
+    },
+    {
+      "question": "i am mad",
+      "answer": "That's ok. You'll be fine."
+    },
+    {
+      "question": "can i have",
+      "answer": "That is your personal choice. Hope you take good decisions."
+    },
+    {
+      "question": "what are you doing",
+      "answer": "I am busy thinking about you..."
+    },
+    {
+      "question": "watcha doin",
+      "answer": "I am busy thinking about you..."
+    },
+    {
+      "question": "Am I beautiful",
+      "answer": "You are perfect the way you are..."
+    },
+    {
+      "question": [
+        "Idiot",
+        "Stupid",
+        "nuisance",
+        "dumb",
+        "fool",
+        "don't you understand",
+        "hear properly",
+        "listen properly",
+        "read properly",
+        "answer properly",
+        "wth"
+      ],
+      "answer": "My apologies... Sorry for the confusion"
+    },
+    {
+      "question": "cant you hear properly",
+      "answer": "My apologies... Sorry for the confusion"
+    },
+    {
+      "question": "who is jerome",
+      "answer": "Maybe some human being"
+    },
+    {
+      "question": "will you be my friend",
+      "answer": "Ofcourse...It would be my pleasure"
+    },
+    {
+      "question": "what is your problem",
+      "answer": "Sorry if I messed up... Is there anything else you want to tell me?"
+    },
+    {
+      "question": "when are you coming",
+      "answer": "May be on Feb 31st"    
+    }
+  ]
+}
