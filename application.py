@@ -9,8 +9,6 @@ from difflib import get_close_matches
 from textblob import TextBlob
 from keras.models import load_model
 
-os.environ["STREAMLIT_HOST"] = "0.0.0.0"
-
 json_object={
   "questions": [
     {
