@@ -9,6 +9,10 @@ from difflib import get_close_matches
 from textblob import TextBlob
 from keras.models import load_model
 import requests
+import os
+
+PORT = int(os.environ.get('PORT', 8501))  # Use the provided port or a default port
+
 
 # URLs for required files
 emotion_model_url = "https://mycompanion.s3.ap-south-1.amazonaws.com/emotion_model.hdf5"
