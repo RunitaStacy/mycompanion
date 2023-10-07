@@ -1,0 +1,8 @@
+opencv-python-headless
+numpy
+pyttsx3
+streamlit
+datetime
+textblob
+keras
+requests
