@@ -1,5 +1,5 @@
 # Use an official Windows-based Python 3.11 image
-FROM python:3.11-windowsservercore
+FROM python:3.11
 
 # Set the working directory to C:\app
 WORKDIR C:\app
